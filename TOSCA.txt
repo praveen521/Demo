@@ -1,0 +1,72 @@
+AWS:
+
+	AWS is a cloud data center machine which is available in the form of Agents and in the form of availablity 
+	Encapsualtion
+	Method overloading - Collecting dropdown (By elemnt ,By)
+	Method overriding - 
+
+
+========
+
+1. We can create a constructor of Abstract class
+
+How to handle SSL certificate or security certificate
+
+
+DOL-AOSTest_CreateChase
+
+Webdriver exception - Setting the property of chrome and launching the firefox driver
+Illegal state exception - Browser compatibilty or without launching the execution
+
+
+======
+
+Fb feature
+
+Status. - Find out friends near by
+
+. green =10KM
+
+red dot
+==============
+
+I used to manage things a planned with
+
+INC0262104
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Integrating with enterprise level management functions such as program management and portfolio management
+
+When we have multiple teams and very big project to work we will face lot of issue - Lack of innovation, cop up with large planning, Multiple sources of teams needs to manage
+
+To solve all these - SAFE (Scalled agile frame work)
+
+Safe we are using "Program level"
+
+Same as "team level" here multiple teams working together under the leadership of project management team and delivering value under the concept of Agile release train
+
+Program management 
+Release train engineer 
+
+
+
